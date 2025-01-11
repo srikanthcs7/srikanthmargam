@@ -115,7 +115,7 @@ export default function RootLayout({
           <div className="container mx-auto px-6 py-8">
             <div className="flex flex-col items-center justify-between space-y-4 md:flex-row md:space-y-0">
               <p className="text-sm text-zinc-600 dark:text-zinc-400">
-                &copy; {new Date().getFullYear()} Srikanth Margam. No right is reserved (except my info 🥴). Feel free to use it 🤝.
+                &copy; {new Date().getFullYear()} Srikanth Margam. No rights reserved (except my info 🥴). Clone it—just don’t sue me if it breaks 🤝..
               </p>
               <div className="flex space-x-6">
                 <a 
