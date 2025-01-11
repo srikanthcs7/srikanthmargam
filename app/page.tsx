@@ -23,7 +23,7 @@ export default function Home() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5 }}
           >
-            Hi, my name is
+            👋 Hi, my name is
           </motion.p>
           <motion.h1 
             className="text-5xl sm:text-7xl font-bold tracking-tight mb-6"
