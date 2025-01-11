@@ -112,9 +112,7 @@ export default function Home() {
                 accessible and responsive.
               </p>
               <p className="text-zinc-600 dark:text-zinc-400">
-                Currently, I'm working as a Senior Frontend Engineer at Naehas (Zenafide Team), where I 
-                lead end-to-end product development and integrate advanced features like custom PDF 
-                viewers and voice recognition systems.
+                Currently, as a Senior Frontend Engineer at Naehas (Zenafide Team), I lead end-to-end product development, integrating features like custom PDF viewers and voice recognition systems. I'm also tackling AI challenges, including real-time voice with LLMs, LLM evaluations, and more.
               </p>
               <p className="text-zinc-600 dark:text-zinc-400">
                 Here are a few technologies I've been working with recently:
