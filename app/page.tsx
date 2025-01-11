@@ -138,7 +138,7 @@ export default function Home() {
             >
               <div className="relative rounded-lg overflow-hidden">
                 <img
-                  src="/placeholder.svg?height=400&width=300"
+                  src="/me.jpg?height=400&width=300"
                   alt="Srikanth Margam"
                   className="w-full h-auto rounded-lg grayscale hover:grayscale-0 transition-all duration-300"
                 />
