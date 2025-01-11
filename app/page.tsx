@@ -361,8 +361,7 @@ export default function Home() {
             className="text-zinc-600 dark:text-zinc-400 mb-8"
             variants={fadeInUp}
           >
-            I'm currently looking for new opportunities. Whether you have a question or just want to say hi, 
-            I'll try my best to get back to you!
+            I’m driven to tackle challenges in AI and beyond. Let’s collaborate to create innovative solutions and drive meaningful change!
           </motion.p>
           <motion.div variants={fadeInUp}>
             <button 
