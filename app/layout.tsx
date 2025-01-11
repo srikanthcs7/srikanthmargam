@@ -1,6 +1,7 @@
 'use client'
 
 import '../dist/output.css'
+import { Analytics } from "@vercel/analytics/react"
 import { useState, useEffect } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
 import { Moon, Sun, Menu, X } from 'lucide-react'
