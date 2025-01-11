@@ -38,7 +38,7 @@ export default function RootLayout({
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ duration: 0.5 }}
               >
-                SM
+              
               </motion.a>
 
               <div className="hidden md:flex items-center space-x-8">
