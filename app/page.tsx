@@ -186,7 +186,7 @@ export default function Home() {
                 role: 'Frontend Engineer - SDE',
                 date: 'July 2021 - July 2024',
                 points: [
-                  'Led a team of four engineers in feature development from design to deployment',
+                  'Successfully migrated an outdated B2B dashboard to the platform, leading to increased revenue from‬ expanded customer offerings and significant cost savings.‬',
                   'Optimized multiple sets of pages to enhance rendering performance',
                   'Integrated the Ridecell plugin into the Geotab platform',
                   'Implemented Cypress as an end-to-end test tool across dashboards'
