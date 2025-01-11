@@ -1,6 +1,6 @@
 'use client'
 
-import './globals.css'
+import '../dist/output.css'
 import { useState, useEffect } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
 import { Moon, Sun, Menu, X } from 'lucide-react'
